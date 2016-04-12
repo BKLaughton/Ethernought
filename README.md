@@ -1,2 +1,2 @@
 # Ethernought
-Parent repo for all projects related to the Ethernought setting. Hosts the Ethernought wiki, loaded with worldbuilding data.
+Parent repo for all projects related to the Ethernought setting. Hosts the [Ethernought wiki](https://github.com/BKLaughton/Ethernought/wiki), loaded with worldbuilding data.
